@@ -1,0 +1,35 @@
+[
+	{
+		"displayName": "Local Node.js Express simple template",
+		"description": "Express web framework for Node.js",
+		"language": "nodejs",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/tudou/.appsody/stacks/dev.local/my-nodejs-express-stack.v0.4.9.templates.simple.tar.gz",
+		"links": {
+			"self": "/devfiles/my-nodejs-express-stack/devfile.yaml"
+		}
+	},
+	{
+		"displayName": "Local Node.js Express kafka template",
+		"description": "Express web framework for Node.js",
+		"language": "nodejs",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/tudou/.appsody/stacks/dev.local/my-nodejs-express-stack.v0.4.9.templates.kafka.tar.gz",
+		"links": {
+			"self": "/devfiles/my-nodejs-express-stack/devfile.yaml"
+		}
+	},
+	{
+		"displayName": "Local Node.js Express scaffold template",
+		"description": "Express web framework for Node.js",
+		"language": "nodejs",
+		"projectType": "appsodyExtension",
+		"projectStyle": "Appsody",
+		"location": "file:///Users/tudou/.appsody/stacks/dev.local/my-nodejs-express-stack.v0.4.9.templates.scaffold.tar.gz",
+		"links": {
+			"self": "/devfiles/my-nodejs-express-stack/devfile.yaml"
+		}
+	}
+]
