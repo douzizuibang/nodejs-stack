@@ -1,0 +1,25 @@
+apiVersion: v2
+stacks:
+- id: my-nodejs-express-stack
+  name: Node.js Express
+  version: 0.4.9
+  description: Express web framework for Node.js
+  license: Apache-2.0
+  language: nodejs
+  maintainers:
+  - name: Sam Roberts
+    email: vieuxtech@gmail.com
+    github-id: sam-github
+  default-template: scaffold
+  src: https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.source.tar.gz
+  templates:
+  - id: simple
+    url: https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.templates.simple.tar.gz
+  - id: kafka
+    url: https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.templates.kafka.tar.gz
+  - id: scaffold
+    url: https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.templates.scaffold.tar.gz
+  requirements:
+    docker-version: '>= 17.09.0'
+    appsody-version: '>= 0.2.7'
+  image: dev.local/appsody/my-nodejs-express-stack:0.4.9
