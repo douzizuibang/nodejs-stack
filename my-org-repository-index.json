@@ -5,7 +5,7 @@
 		"language": "nodejs",
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
-		"location": "https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.templates.simple.tar.gz",
+		"location": "https://github.ibm.com/icp4apps-demo/my-org-repository/releases/download/3.0/my-nodejs-express-stack.v0.4.9.templates.simple.tar.gz",
 		"links": {
 			"self": "/devfiles/my-nodejs-express-stack/devfile.yaml"
 		}
@@ -16,7 +16,7 @@
 		"language": "nodejs",
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
-		"location": "https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.templates.kafka.tar.gz",
+		"location": "https://github.ibm.com/icp4apps-demo/my-org-repository/releases/download/3.0/my-nodejs-express-stack.v0.4.9.templates.kafka.tar.gz",
 		"links": {
 			"self": "/devfiles/my-nodejs-express-stack/devfile.yaml"
 		}
@@ -27,7 +27,7 @@
 		"language": "nodejs",
 		"projectType": "appsodyExtension",
 		"projectStyle": "Appsody",
-		"location": "https://github.ibm.com/icp4apps-demo/my-org-repository/releases/1.0/download/my-nodejs-express-stack.v0.4.9.templates.scaffold.tar.gz",
+		"location": "https://github.ibm.com/icp4apps-demo/my-org-repository/releases/download/3.0/my-nodejs-express-stack.v0.4.9.templates.scaffold.tar.gz",
 		"links": {
 			"self": "/devfiles/my-nodejs-express-stack/devfile.yaml"
 		}
